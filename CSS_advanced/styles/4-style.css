@@ -5,7 +5,7 @@ body {
     color: var(--text-color);
     font-family: var(--font-family-base);
 }
-h1,h2,h3,h4,h5,h6{
+h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-family-title);
 }
 a {
@@ -15,13 +15,13 @@ a {
 .visually-hidden {
     display: none;
 }
-.card-category{
+.card-category {
     color: var(--color-primary);
 }
-.section-tagline{
+.section-tagline {
     color: var(--color-primary);
 }
-:root{
+:root {
     --color-primary: #d73953;
     --color-black: #090909;
     --color-white: #ffffff;
