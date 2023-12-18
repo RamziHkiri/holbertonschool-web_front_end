@@ -1,0 +1,12 @@
+/*You must use 2 Sass variables*/
+$first-color: #3D3D3D;
+$second_color: #6D6D6D ;
+body {
+    color: $first-color;
+    background-color: $second_color; }
+  
+  p {
+    color: $first-color; }
+  
+  h2 {
+    background-color:$second_color; }
