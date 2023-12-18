@@ -1,0 +1,13 @@
+/**/
+@mixin theme($left, $right) {
+    margin-left: $left;
+    margin-right: $right;
+}
+
+body {
+    @include theme($left:10px, $right:10px);
+}
+
+div {
+    @include theme($left:15px, $right:15px);
+}
