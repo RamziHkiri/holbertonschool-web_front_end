@@ -10,7 +10,7 @@ $second_color: #FF0000;
 body {
     color: $first-color;
 
-    body .red {
+    .red {
         color: $second_color;
     }
 }
