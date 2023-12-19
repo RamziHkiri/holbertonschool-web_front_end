@@ -2,7 +2,7 @@
 
 You must use @import
 You must use @each statement*/
-@import '';
+@import '----';
 @each $name in $list-names {
     .photo-#{$name} {
         background: image-url("photos/#{$name}.jpg") no-repeat;
